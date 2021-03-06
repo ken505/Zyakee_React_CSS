@@ -23,7 +23,7 @@ export const InlineStyle = () => {
   };
   return (
     <div style={containerStyle}>
-      <p style={titleStyle}>- What are you looking at -</p>
+      <p style={titleStyle}>- What fuck you looking at -</p>
       <button style={buttonStyle}> Fuck off </button>
     </div>
   );
